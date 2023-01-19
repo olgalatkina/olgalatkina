@@ -31,17 +31,15 @@
 [Яндекс.Практикум](https://disk.yandex.ru/i/wJ4JctJd6cCmiA) &bullet;
 [RSSchool (EPAM)](https://app.rs.school/certificate/uaz94h5s) &bullet;
 [Hexlet](https://ru.hexlet.io/u/trolya)  
-<a href="https://www.codewars.com/users/olgalatkina">
-  <img alt="codewars" src="https://www.codewars.com/users/olgalatkina/badges/small">
-</a>
+<a href="https://www.codewars.com/users/olgalatkina"><img alt="codewars" src="https://www.codewars.com/users/olgalatkina/badges/small"></a>
 
 #### Контакты:  
 [![badge](https://img.shields.io/badge/olga.latkina@gmail.com-Gmail-CCC)](mailto:olga.latkina@gmail.com) [![badge](https://img.shields.io/badge/@tr0lya-Telegram-CCC)](https://t.me/tr0lya)  
 
 #### Статистика:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=olgalatkina&show_icons=true&theme=light" width=45%>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=olgalatkina&theme=light&hide_border=true" width=45%>
+  <img src="https://github-readme-stats.vercel.app/api?username=olgalatkina&show_icons=true&theme=merko" width=45%>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=olgalatkina&theme=merko&hide_border=true" width=45%>
 </p>
 
 <!--
