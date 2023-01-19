@@ -1,4 +1,4 @@
-### Привет! меня зовут Ольга &nbsp;<a href="https://t.me/tr0lya" target="_blank" rel="nofollow"><img alt="Olga's Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+### Привет! меня зовут Ольга &nbsp;<a href="https://t.me/tr0lya" target="_blank" rel="nofollow"><img alt="Olga's Telegram" width="24px" src="./images/telegram.png" /></a>
 
 - Стараюсь писать чистый код
 - Менторю студентов в Яндекс.Практикуме
@@ -36,7 +36,7 @@
 </a>
 
 #### Контакты:  
-[![badge](https://img.shields.io/badge/olga.latkina@gmail.com-Gmail-8FD337)](mailto:olga.latkina@gmail.com) [![badge](https://img.shields.io/badge/@tr0lya-Telegram-8FD337)](https://t.me/tr0lya)  
+[![badge](https://img.shields.io/badge/olga.latkina@gmail.com-Gmail-1C92EB)](mailto:olga.latkina@gmail.com) [![badge](https://img.shields.io/badge/@tr0lya-Telegram-1C92EB)](https://t.me/tr0lya)  
 
 #### Статистика:
 <p>
