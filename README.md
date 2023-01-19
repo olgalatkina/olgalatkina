@@ -41,7 +41,7 @@
 #### Статистика:
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=olgalatkina&theme=merko&hide_border=true" width=45%>
-  <img src="https://github-readme-stats.vercel.app/api?username=olgalatkina&show_icons=true&theme=merko" width=45%>  
+  <img src="https://github-readme-stats.vercel.app/api?username=olgalatkina&show_icons=true&theme=light" width=45%>  
 </p>
 
 
