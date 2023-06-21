@@ -1,9 +1,5 @@
 ### Привет! меня зовут Ольга &nbsp;<a href="https://t.me/tr0lya" target="_blank" rel="nofollow"><img alt="Olga's Telegram" width="24px" src="./images/telegram.png" /></a>
 
-- Стараюсь писать чистый код
-- Менторю студентов в Яндекс.Практикуме
-- Хочу работать в опытной команде
-
 #### Используемые языки и технологии:
 > *frontend:*  
 ![JavaScript](https://img.shields.io/badge/javascript-36465D.svg?style=for-the-badge&logo=javascript&logoColor=8FD337)
